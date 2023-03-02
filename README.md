@@ -6,7 +6,6 @@
 3. [Output Resources](#organizational-policies)
 4. [Data ETL Pipeline Architecture Diagram](#network-diagram)
 5. [Product Links](#product-links)
-6. [Release Notes](#release-notes)
 
 ## Summary
 This starter pack deploys both batch and streaming Dataflow jobs 
@@ -33,6 +32,3 @@ The following Argolis Default organization policies have been modified:
 * [Cloud Storage](https://cloud.google.com/storage)
 * [Dataflow](https://cloud.google.com/dataflow)
 * [BigQuery](https://github.com/GoogleCloudPlatform/bigquery)
-
-## Release Notes
-* 12/19/22- Inital Release
